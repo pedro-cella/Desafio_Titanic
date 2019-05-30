@@ -1,5 +1,6 @@
 # Desafio_Titanic
   O desafio consiste em classificar se um passageiro sobreviveu ou não ao naufrágio do Titanic.
+  
   Ao utilizar das features escolhidas eu procurei evitar dados que estavam incompletos, bem como dados que ao meu ver não 
   contribuiam para o meu desenvolvimento da questão, além disso preferi tratar das features numéricas por serem mais fáceis 
   de se lidar.
