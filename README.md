@@ -11,3 +11,9 @@
     
   O resultado dos dados foi obtido com as determinadas precisões, avindas do do treinamento do modelo train, que gerou o 
   resultado final do arquivo test.
+  
+  Utilizei de algumas referências para o desenvolvimento do código:
+  
+  https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd
+  
+  https://youtu.be/Z5kqCBDcMnQ
