@@ -1,2 +1,11 @@
 # Desafio_Titanic
-In this challenge, complete the analysis of what sorts of people were likely to survive. In particular, apply the tools of machine learning to predict which passengers survived the tragedy.
+  O desafio consiste em classificar se um passageiro sobreviveu ou não ao naufrágio do Titanic.
+  Falando sobre o código:
+    Ao utilizar das features escolhidas eu procurei evitar dados que estavam incompletos, bem como dados que ao meu ver não 
+    contribuiam para o meu desenvolvimento da questão, além disso preferi tratar das features numéricas por serem mais fáceis 
+    de se lidar.
+    Utilizei de dois modelos de ML, um foi a Decision Tree e outro foi a Random Forest, em que ambos me ajudaram na classificação
+    e na precisão dos meus dados, lidando com questão de velocidade e regressão além de gerar o resultado final. Apesar disso,
+    possuo dificuldade em analisar qual modelo usar para determinada situação.
+    O resultado dos dados foi obtido com as determinadas precisões, avindas do do treinamento do modelo train, que gerou o 
+    resultado final do arquivo test. Abaixo encaminho também o csv gerado
