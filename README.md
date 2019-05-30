@@ -10,4 +10,4 @@
   possuo dificuldade em analisar qual modelo usar para determinada situação.
     
   O resultado dos dados foi obtido com as determinadas precisões, avindas do do treinamento do modelo train, que gerou o 
-  resultado final do arquivo test. Abaixo encaminho também o csv gerado.
+  resultado final do arquivo test.
